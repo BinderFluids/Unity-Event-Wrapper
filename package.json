@@ -1,0 +1,11 @@
+{
+  "name": "com.binderfluids.eventwrapper",
+  "version": "1.0.0",
+  "displayName": "Event Wrapper",
+  "author": {
+    "name": "Tanner Martin"
+  },
+  "description": "A class which wraps Unity's Event System and event Actions into a single class."
+}
+
+
